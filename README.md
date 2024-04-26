@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+# TODO-List
+---
+## 🚀 Explanation
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+TODO-List 구현입니다.
+React를 활용하였으며, 기존 Todo-List와 기본 동작은 같지만, Drag and Drop을 사용하여 Todo-List를 관리 가능합니다.
 
-## Available Scripts
 
-In the project directory, you can run:
+<table>
+  <tr>
+    <th>Default</th>
+    <td><img width="800" alt="스크린샷 2024-04-26 오후 2 19 11" src="https://github.com/Hojip-Kim/React_Study/assets/101489057/e18e996c-ef9a-4d1a-996b-c20f80c23d48">
+</td>
+    <th>Submit</th>
+    <td><img width="800" alt="스크린샷 2024-04-26 오후 2 22 02" src="https://github.com/Hojip-Kim/React_Study/assets/101489057/e489cf0c-4bb3-4ac1-95c9-c8a2dad7b06c">
+</td>
+  </tr>
+  <tr>
+    <th>Edit</th>
+    <td><img width="800" alt="스크린샷 2024-04-26 오후 2 23 38" src="https://github.com/Hojip-Kim/React_Study/assets/101489057/cb3b41aa-f3b5-4042-b2b4-c4bad948db75">
+</td>
+    <th>Edit Confirm</th>
+    <td><img width="800" alt="스크린샷 2024-04-26 오후 2 25 33" src="https://github.com/Hojip-Kim/React_Study/assets/101489057/2f844b2a-602a-4387-b869-4bf880a38f21">
+</td>
+  </tr>
+  <tr>
+    <th>Drag</th>
+    <td><img width="800" alt="스크린샷 2024-04-26 오후 2 44 48" src="https://github.com/Hojip-Kim/React_Study/assets/101489057/99ef9725-2aff-428b-a9dd-ce221d51b59f">
+</td>
+    <th>Drop</th>
+    <td><img width="800" alt="스크린샷 2024-04-26 오후 2 45 15" src="https://github.com/Hojip-Kim/React_Study/assets/101489057/a32a8780-bea6-49ad-af7f-e96840dc41cd">
+</td>
+  </tr>
+</table>
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
